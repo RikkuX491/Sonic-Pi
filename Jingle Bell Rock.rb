@@ -1,4 +1,6 @@
-# Song: Jingle Bell Rock (with chords)
+# Song: Jingle Bell Rock
+
+# Author: Ricardo Guerra
 
 # Jingle Bell Rock - Part 1a
 define :part_1a_zawa do
